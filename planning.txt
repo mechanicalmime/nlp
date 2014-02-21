@@ -1,0 +1,41 @@
+Layout
+-------------------------
+Header
+Art related to analysed book? 
+-------------------------
+Interesting facts about the analysed book? 
+-------------------------
+Metrics: 
+
+- Letter count
+- Word count
+- Sentence count
+- Paragraph count
+- Chapter count
+- Book count? 
+
+- Average word length (probability distribution?)
+- Average sentence length (probability distribution?)
+- Average paragraph length (probability distribution?)
+- Average chapter length (probability distribution?)
+
+- Most repeated words
+- Less repeated words
+- Word diversity (Total word count / different word count) 
+
+More complex metric - more linguistic and language specific
+- Preposition analysis
+- Adjective analysis
+- Noun analysis
+- Adverb analysis
+- Verb and verb tense analysis
+(Research other components of a sentence in English) 
+
+-------------------------
+Footer
+-------------------------
+
+Feature Ideas: 
+	User created queries over book data.
+	Create comparisons book to book. User driven. 
+	Create author profiles, based on several books. 
