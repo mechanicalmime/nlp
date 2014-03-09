@@ -39,3 +39,5 @@ Feature Ideas:
 	User created queries over book data.
 	Create comparisons book to book. User driven. 
 	Create author profiles, based on several books. 
+
+Not an idea, just a change to test git from Nietzsche
